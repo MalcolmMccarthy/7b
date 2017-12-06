@@ -1,0 +1,209 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{28, 156}, {157, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "add_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "ADD",
+          "uuid" : "E0151C22-292F-4997-B563-EA6E0ED43670",
+          "class" : "Button",
+          "name" : "add_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{28, 116}, {218, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "1AC4D8D4-5407-4637-ACA6-A5B9A525739E",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "random_number_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{28, 250}, {157, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "subtract_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "SUBTRACT",
+          "uuid" : "8A4CB354-8E92-4453-ABC2-FD8616F415AF",
+          "class" : "Button",
+          "name" : "subtract_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{28, 199}, {157, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "D311F3E8-50A0-4E5B-AE2A-5F515E2E25EB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "add_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{28, 302}, {157, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "FF100C38-FB78-4069-8AF5-65FCA5743E8C",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "subtract_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{367, 156}, {143, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "multiply_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "MULTIPLY",
+          "uuid" : "B77BC3F5-AF3C-4060-99D4-B4151EF2C780",
+          "class" : "Button",
+          "name" : "multiply_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{367, 199}, {143, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C0EA158C-8591-4A6F-8493-59759A6CE5EB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "multiply_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{367, 250}, {143, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "average_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "AVERAGE",
+          "uuid" : "362B51A7-C31D-4252-BC7A-4B37E24881D9",
+          "class" : "Button",
+          "name" : "average_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{367, 302}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "CDB26547-47DB-48D1-A9E7-256FD789138A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "average_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{28, 66}, {153, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "show_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "SHOW",
+          "uuid" : "9058F3F7-7B3D-4DEA-9FF0-089335423ED7",
+          "class" : "Button",
+          "name" : "show_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{189, 66}, {528, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "special_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "B53B06C8-ABAE-449C-837A-2598E53D4D2A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
